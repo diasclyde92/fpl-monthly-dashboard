@@ -5,7 +5,9 @@ from datetime import datetime
 import requests
 
 from config import LEAGUE_URL, BOOTSTRAP_URL, ENTRY_HISTORY_URL
+from pathlib import Path
 
+Path("data").mkdir(exist_ok=True)
 
 def get_json(url):
     response = requests.get(url, timeout=30)
