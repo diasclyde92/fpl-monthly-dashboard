@@ -5,4 +5,3 @@ __pycache__/
 .vscode/
 
 data/raw.json
-leaderboard.json
