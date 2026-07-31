@@ -1,22 +1,23 @@
-# Virtual Environment
-.venv/
+                       # Virtual Environment
 venv/
+.venv/
 
 # Python
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 
-# Environment
-.env
-
-# PyCharm
+# IDE
 .idea/
+.vscode/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Generated data (optional)
-# data/raw_data.json
-# data/leaderboard.json
+# Environment
+.env
+
+# Generated files
+data/raw_data.json
+data/leaderboard.json

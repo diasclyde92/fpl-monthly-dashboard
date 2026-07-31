@@ -1,42 +1,47 @@
-import json
-from pathlib import Path
+from app.api import FPLApi
+from app.config import (
+    HEADERS,
+    LEAGUE_URL,
+    BOOTSTRAP_URL,
+    ENTRY_HISTORY_URL
+)
+from app.paths import RAW_DATA
+from app.utils import save_json
 
-from config import *
-from utils import get_json
 
+def fetch():
 
-def main():
+    api = FPLApi(HEADERS)
 
     print("=" * 50)
-    print("Loading League")
+    print("Downloading League")
     print("=" * 50)
 
-    league = get_json(LEAGUE_URL, HEADERS)
+    league = api.get(LEAGUE_URL)
 
     standings = league["standings"]["results"]
 
-    print(f"Managers Found : {len(standings)}")
+    print(f"Managers : {len(standings)}")
 
-    print("\nLoading Bootstrap...")
+    print("\nDownloading Bootstrap")
 
-    bootstrap = get_json(BOOTSTRAP_URL, HEADERS)
+    bootstrap = api.get(BOOTSTRAP_URL)
 
     managers = []
 
-    print("\nDownloading manager histories...\n")
+    print("\nDownloading Manager Histories\n")
 
-    for i, manager in enumerate(standings, start=1):
+    total = len(standings)
 
-        entry = manager["entry"]
+    for index, manager in enumerate(standings, start=1):
 
-        history = get_json(
-            ENTRY_HISTORY_URL.format(entry),
-            HEADERS
+        history = api.get(
+            ENTRY_HISTORY_URL.format(manager["entry"])
         )
 
         managers.append({
 
-            "entry": entry,
+            "entry": manager["entry"],
             "player_name": manager["player_name"],
             "entry_name": manager["entry_name"],
             "rank": manager["rank"],
@@ -45,29 +50,21 @@ def main():
 
         })
 
-        print(f"[{i}/{len(standings)}] {manager['player_name']}")
+        print(f"[{index}/{total}] {manager['player_name']}")
 
     output = {
 
         "league": league["league"],
+
         "bootstrap": bootstrap,
+
         "managers": managers
 
     }
 
-    Path("data").mkdir(exist_ok=True)
+    save_json(RAW_DATA, output)
 
-    with open("data/raw_data.json", "w", encoding="utf-8") as f:
-
-        json.dump(
-            output,
-            f,
-            indent=4,
-            ensure_ascii=False
-        )
-
-    print("\n✅ raw_data.json created successfully!")
-
-
-if __name__ == "__main__":
-    main()
+    print()
+    print("=" * 50)
+    print("raw_data.json saved successfully")
+    print("=" * 50)
