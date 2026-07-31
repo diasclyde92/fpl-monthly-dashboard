@@ -1,58 +1,45 @@
 from pathlib import Path
 
-PROJECT = {
-    "folders": [
-        "app",
-        "scripts",
-        "website",
-        "website/assets",
-        "data",
-        ".github/workflows",
-    ],
-    "files": [
-        ".env",
-        ".gitignore",
-        "README.md",
-        "requirements.txt",
-        "main.py",
+PROJECT_NAME = "fpl-monthly-dashboard"
 
-        "app/__init__.py",
-        "app/config.py",
-        "app/paths.py",
-        "app/api.py",
-        "app/calculator.py",
-        "app/models.py",
-        "app/utils.py",
+folders = [
+    "data",
+    "website",
+    ".github/workflows",
+]
 
-        "scripts/fetch_data.py",
-        "scripts/build_dashboard.py",
-
-        "website/index.html",
-        "website/style.css",
-        "website/script.js",
-
-        ".github/workflows/update.yml",
-    ]
+files = {
+    "main.py": "",
+    "config.py": "",
+    "requirements.txt": "",
+    "README.md": "# FPL Monthly Dashboard\n",
+    ".gitignore": "",
+    "website/index.html": "",
+    "website/style.css": "",
+    "website/script.js": "",
+    ".github/workflows/update.yml": "",
 }
 
-for folder in PROJECT["folders"]:
-    Path(folder).mkdir(parents=True, exist_ok=True)
+project = Path(PROJECT_NAME)
 
-for file in PROJECT["files"]:
-    Path(file).touch(exist_ok=True)
+project.mkdir(exist_ok=True)
+
+for folder in folders:
+    (project / folder).mkdir(parents=True, exist_ok=True)
+
+for file, content in files.items():
+    path = project / file
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+    if not path.exists():
+        path.write_text(content, encoding="utf-8")
 
 print("=" * 50)
-print("✅ FPL Monthly Dashboard Project Created")
+print("Project created successfully!")
 print("=" * 50)
+print(project.resolve())
+print("\nFolder structure:\n")
 
-print("\nFolders:")
-
-for folder in PROJECT["folders"]:
-    print("📁", folder)
-
-print("\nFiles:")
-
-for file in PROJECT["files"]:
-    print("📄", file)
-
-print("\nReady to code 🚀")
+for p in sorted(project.rglob("*")):
+    indent = "    " * (len(p.relative_to(project).parts) - 1)
+    print(f"{indent}{p.name}")
