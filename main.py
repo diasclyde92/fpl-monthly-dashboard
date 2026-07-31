@@ -125,7 +125,7 @@ dashboard = {
 print("Saving dashboard...")
 
 with open(
-    "website/leaderboard.json",
+        "leaderboard.json",
     "w",
     encoding="utf8",
 ) as f:
