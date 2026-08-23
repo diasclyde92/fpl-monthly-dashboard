@@ -3,7 +3,7 @@
 # ==========================================
 
 # Your FPL Classic League ID
-LEAGUE_ID = 395032
+LEAGUE_ID = 1126976
 
 # API Endpoints
 LEAGUE_URL = (
