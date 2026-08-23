@@ -1,174 +1,310 @@
 {
-  "league_name": "🏆👉🏽ToTheTop👈🏽🏆",
-  "last_updated": "31 July 2026 16:45",
-  "overall": [
-    {
-      "rank": 1,
-      "manager": "Clyde Dias",
-      "team": "GameTime",
-      "points": 2478
-    },
-    {
-      "rank": 2,
-      "manager": "Alex Smith",
-      "team": "The Invincibles",
-      "points": 2451
-    },
-    {
-      "rank": 3,
-      "manager": "John Wilson",
-      "team": "Red Devils",
-      "points": 2438
-    },
-    {
-      "rank": 4,
-      "manager": "Emily Jones",
-      "team": "Blue Moon FC",
-      "points": 2415
-    },
-    {
-      "rank": 5,
-      "manager": "Michael Brown",
-      "team": "Hat Trick Heroes",
-      "points": 2398
-    },
-    {
-      "rank": 6,
-      "manager": "Sarah Lee",
-      "team": "Goal Getters",
-      "points": 2375
-    },
-    {
-      "rank": 7,
-      "manager": "Daniel White",
-      "team": "Captain Fantastic",
-      "points": 2352
-    },
-    {
-      "rank": 8,
-      "manager": "Olivia Green",
-      "team": "Wildcard FC",
-      "points": 2338
+    "league_name": "\ud83c\udfc6\ud83d\udc46\ud83c\udffdToTheTop\ud83d\udc46\ud83c\udffd\ud83c\udfc6",
+    "last_updated": "23 August 2026 03:18",
+    "overall": [
+        {
+            "rank": 1,
+            "manager": "Floyd Fdes",
+            "team": "Floyd's Team",
+            "points": 63
+        },
+        {
+            "rank": 2,
+            "manager": "Newton Fernandes",
+            "team": "Beers-o-Joy",
+            "points": 59
+        },
+        {
+            "rank": 3,
+            "manager": "Sayed Soliman",
+            "team": "io",
+            "points": 43
+        },
+        {
+            "rank": 4,
+            "manager": "Powell fdes",
+            "team": "Badiaboil FC",
+            "points": 32
+        },
+        {
+            "rank": 4,
+            "manager": "Jesslee Crasto",
+            "team": "Immortals",
+            "points": 32
+        },
+        {
+            "rank": 6,
+            "manager": "Arisen Fernandes",
+            "team": "Pending Moderation",
+            "points": 31
+        },
+        {
+            "rank": 7,
+            "manager": "Praveen Devarkar",
+            "team": "GoonerSquad",
+            "points": 29
+        },
+        {
+            "rank": 8,
+            "manager": "clyde dias",
+            "team": "GameTime \ufffd",
+            "points": 27
+        },
+        {
+            "rank": 9,
+            "manager": "Dattaraj Naik",
+            "team": "NameDoesntMata",
+            "points": 25
+        },
+        {
+            "rank": 10,
+            "manager": "Titus Muema",
+            "team": "Quebec Fc",
+            "points": 23
+        },
+        {
+            "rank": 11,
+            "manager": "Nelton Goes",
+            "team": "Dando Boys FC",
+            "points": 20
+        },
+        {
+            "rank": 12,
+            "manager": "Mustafa Mohamed",
+            "team": "Dragon",
+            "points": 18
+        },
+        {
+            "rank": 13,
+            "manager": "Cleto Barbosa",
+            "team": "cykron89",
+            "points": 17
+        },
+        {
+            "rank": 14,
+            "manager": "Kefan Borges",
+            "team": "AllorNothinFC",
+            "points": 15
+        },
+        {
+            "rank": 14,
+            "manager": "Godwin Ovbude",
+            "team": "OG SHAWARMA FC",
+            "points": 15
+        },
+        {
+            "rank": 14,
+            "manager": "Kalpit Patel",
+            "team": "Peaky Reijnders",
+            "points": 15
+        },
+        {
+            "rank": 14,
+            "manager": "Christopher Zenda",
+            "team": "Ckay",
+            "points": 15
+        },
+        {
+            "rank": 14,
+            "manager": "Stephen King",
+            "team": "Octoman Oust Luther",
+            "points": 15
+        },
+        {
+            "rank": 19,
+            "manager": "Hatim Abd\u00f8",
+            "team": "\ufffd",
+            "points": 14
+        },
+        {
+            "rank": 19,
+            "manager": "Jason Gomes",
+            "team": "Odysseus's Trojans",
+            "points": 14
+        },
+        {
+            "rank": 21,
+            "manager": "Varun Mascarenhas",
+            "team": "Faze fc",
+            "points": 13
+        },
+        {
+            "rank": 21,
+            "manager": "Aliston Menezes",
+            "team": "City boys",
+            "points": 13
+        },
+        {
+            "rank": 23,
+            "manager": "Simon Correia",
+            "team": "F-A-N-T-A-S-Y XI",
+            "points": 12
+        },
+        {
+            "rank": 23,
+            "manager": "Mohamed Haider",
+            "team": "Al AQSA",
+            "points": 12
+        },
+        {
+            "rank": 25,
+            "manager": "Kevin Monteiro",
+            "team": "madkev",
+            "points": 10
+        }
+    ],
+    "months": {
+        "August": [
+            {
+                "manager": "Floyd Fdes",
+                "team": "Floyd's Team",
+                "points": 63,
+                "rank": 1
+            },
+            {
+                "manager": "Newton Fernandes",
+                "team": "Beers-o-Joy",
+                "points": 59,
+                "rank": 2
+            },
+            {
+                "manager": "Sayed Soliman",
+                "team": "io",
+                "points": 43,
+                "rank": 3
+            },
+            {
+                "manager": "Powell fdes",
+                "team": "Badiaboil FC",
+                "points": 32,
+                "rank": 4
+            },
+            {
+                "manager": "Jesslee Crasto",
+                "team": "Immortals",
+                "points": 32,
+                "rank": 5
+            },
+            {
+                "manager": "Arisen Fernandes",
+                "team": "Pending Moderation",
+                "points": 31,
+                "rank": 6
+            },
+            {
+                "manager": "Praveen Devarkar",
+                "team": "GoonerSquad",
+                "points": 29,
+                "rank": 7
+            },
+            {
+                "manager": "clyde dias",
+                "team": "GameTime \ufffd",
+                "points": 27,
+                "rank": 8
+            },
+            {
+                "manager": "Dattaraj Naik",
+                "team": "NameDoesntMata",
+                "points": 25,
+                "rank": 9
+            },
+            {
+                "manager": "Titus Muema",
+                "team": "Quebec Fc",
+                "points": 23,
+                "rank": 10
+            },
+            {
+                "manager": "Nelton Goes",
+                "team": "Dando Boys FC",
+                "points": 20,
+                "rank": 11
+            },
+            {
+                "manager": "Mustafa Mohamed",
+                "team": "Dragon",
+                "points": 18,
+                "rank": 12
+            },
+            {
+                "manager": "Cleto Barbosa",
+                "team": "cykron89",
+                "points": 17,
+                "rank": 13
+            },
+            {
+                "manager": "Kefan Borges",
+                "team": "AllorNothinFC",
+                "points": 15,
+                "rank": 14
+            },
+            {
+                "manager": "Godwin Ovbude",
+                "team": "OG SHAWARMA FC",
+                "points": 15,
+                "rank": 15
+            },
+            {
+                "manager": "Kalpit Patel",
+                "team": "Peaky Reijnders",
+                "points": 15,
+                "rank": 16
+            },
+            {
+                "manager": "Christopher Zenda",
+                "team": "Ckay",
+                "points": 15,
+                "rank": 17
+            },
+            {
+                "manager": "Stephen King",
+                "team": "Octoman Oust Luther",
+                "points": 15,
+                "rank": 18
+            },
+            {
+                "manager": "Hatim Abd\u00f8",
+                "team": "\ufffd",
+                "points": 14,
+                "rank": 19
+            },
+            {
+                "manager": "Jason Gomes",
+                "team": "Odysseus's Trojans",
+                "points": 14,
+                "rank": 20
+            },
+            {
+                "manager": "Varun Mascarenhas",
+                "team": "Faze fc",
+                "points": 13,
+                "rank": 21
+            },
+            {
+                "manager": "Aliston Menezes",
+                "team": "City boys",
+                "points": 13,
+                "rank": 22
+            },
+            {
+                "manager": "Simon Correia",
+                "team": "F-A-N-T-A-S-Y XI",
+                "points": 12,
+                "rank": 23
+            },
+            {
+                "manager": "Mohamed Haider",
+                "team": "Al AQSA",
+                "points": 12,
+                "rank": 24
+            },
+            {
+                "manager": "Kevin Monteiro",
+                "team": "madkev",
+                "points": 10,
+                "rank": 25
+            }
+        ]
     }
-  ],
-  "months": {
-    "August": [
-      {
-        "rank": 1,
-        "manager": "Alex Smith",
-        "team": "The Invincibles",
-        "points": 286
-      },
-      {
-        "rank": 2,
-        "manager": "Clyde Dias",
-        "team": "GameTime",
-        "points": 280
-      },
-      {
-        "rank": 3,
-        "manager": "John Wilson",
-        "team": "Red Devils",
-        "points": 274
-      },
-      {
-        "rank": 4,
-        "manager": "Emily Jones",
-        "team": "Blue Moon FC",
-        "points": 268
-      }
-    ],
-    "September": [
-      {
-        "rank": 1,
-        "manager": "Clyde Dias",
-        "team": "GameTime",
-        "points": 312
-      },
-      {
-        "rank": 2,
-        "manager": "Sarah Lee",
-        "team": "Goal Getters",
-        "points": 301
-      },
-      {
-        "rank": 3,
-        "manager": "Alex Smith",
-        "team": "The Invincibles",
-        "points": 295
-      },
-      {
-        "rank": 4,
-        "manager": "Daniel White",
-        "team": "Captain Fantastic",
-        "points": 291
-      }
-    ],
-    "October": [
-      {
-        "rank": 1,
-        "manager": "Emily Jones",
-        "team": "Blue Moon FC",
-        "points": 334
-      },
-      {
-        "rank": 2,
-        "manager": "Clyde Dias",
-        "team": "GameTime",
-        "points": 326
-      },
-      {
-        "rank": 3,
-        "manager": "Michael Brown",
-        "team": "Hat Trick Heroes",
-        "points": 321
-      },
-      {
-        "rank": 4,
-        "manager": "John Wilson",
-        "team": "Red Devils",
-        "points": 315
-      }
-    ],
-    "November": [
-      {
-        "rank": 1,
-        "manager": "Daniel White",
-        "team": "Captain Fantastic",
-        "points": 298
-      },
-      {
-        "rank": 2,
-        "manager": "Clyde Dias",
-        "team": "GameTime",
-        "points": 295
-      },
-      {
-        "rank": 3,
-        "manager": "Alex Smith",
-        "team": "The Invincibles",
-        "points": 289
-      }
-    ],
-    "December": [
-      {
-        "rank": 1,
-        "manager": "Clyde Dias",
-        "team": "GameTime",
-        "points": 355
-      },
-      {
-        "rank": 2,
-        "manager": "Emily Jones",
-        "team": "Blue Moon FC",
-        "points": 341
-      },
-      {
-        "rank": 3,
-        "manager": "Sarah Lee",
-        "team": "Goal Getters",
-        "points": 337
-      }
-    ]
-  }
 }
