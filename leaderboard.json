@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "23 August 2026 06:43",
+    "last_updated": "23 August 2026 12:17",
     "overall": [
         {
             "rank": 1,
@@ -64,14 +64,14 @@
         },
         {
             "rank": 10,
-            "manager": "Belinda D Souza",
-            "team": "FC Unbothered \ufffd",
+            "manager": "Elroy Pereira",
+            "team": "Elroy 01",
             "points": 27
         },
         {
             "rank": 10,
-            "manager": "Elroy Pereira",
-            "team": "Elroy 01",
+            "manager": "Belinda D Souza",
+            "team": "FC Unbothered \ufffd",
             "points": 27
         },
         {
@@ -94,14 +94,8 @@
         },
         {
             "rank": 16,
-            "manager": "jericho Fernandes",
-            "team": "Anonymous XI",
-            "points": 23
-        },
-        {
-            "rank": 16,
-            "manager": "Vivancio Dias",
-            "team": "cauliflower",
+            "manager": "Eurico Viegas",
+            "team": "Sandlole FC",
             "points": 23
         },
         {
@@ -112,8 +106,14 @@
         },
         {
             "rank": 16,
-            "manager": "Eurico Viegas",
-            "team": "Sandlole FC",
+            "manager": "Vivancio Dias",
+            "team": "cauliflower",
+            "points": 23
+        },
+        {
+            "rank": 16,
+            "manager": "jericho Fernandes",
+            "team": "Anonymous XI",
             "points": 23
         },
         {
@@ -136,14 +136,14 @@
         },
         {
             "rank": 23,
-            "manager": "Terancio Fernandes",
-            "team": "MI.RA.KA 11",
+            "manager": "Fenzier Gomes",
+            "team": "WOLF PACK",
             "points": 21
         },
         {
             "rank": 23,
-            "manager": "Fenzier Gomes",
-            "team": "WOLF PACK",
+            "manager": "Terancio Fernandes",
+            "team": "MI.RA.KA 11",
             "points": 21
         },
         {
@@ -178,14 +178,14 @@
         },
         {
             "rank": 30,
-            "manager": "Myron Almeida",
-            "team": "Sweet As Kiwis",
+            "manager": "Binod Dahal",
+            "team": "Everest XI",
             "points": 16
         },
         {
             "rank": 30,
-            "manager": "Binod Dahal",
-            "team": "Everest XI",
+            "manager": "Myron Almeida",
+            "team": "Sweet As Kiwis",
             "points": 16
         },
         {
@@ -300,14 +300,14 @@
                 "rank": 10
             },
             {
-                "manager": "Belinda D Souza",
-                "team": "FC Unbothered \ufffd",
+                "manager": "Elroy Pereira",
+                "team": "Elroy 01",
                 "points": 27,
                 "rank": 11
             },
             {
-                "manager": "Elroy Pereira",
-                "team": "Elroy 01",
+                "manager": "Belinda D Souza",
+                "team": "FC Unbothered \ufffd",
                 "points": 27,
                 "rank": 12
             },
@@ -330,26 +330,26 @@
                 "rank": 15
             },
             {
-                "manager": "jericho Fernandes",
-                "team": "Anonymous XI",
+                "manager": "Eurico Viegas",
+                "team": "Sandlole FC",
                 "points": 23,
                 "rank": 16
-            },
-            {
-                "manager": "Vivancio Dias",
-                "team": "cauliflower",
-                "points": 23,
-                "rank": 17
             },
             {
                 "manager": "Dylan Miranda",
                 "team": "404 Root",
                 "points": 23,
+                "rank": 17
+            },
+            {
+                "manager": "Vivancio Dias",
+                "team": "cauliflower",
+                "points": 23,
                 "rank": 18
             },
             {
-                "manager": "Eurico Viegas",
-                "team": "Sandlole FC",
+                "manager": "jericho Fernandes",
+                "team": "Anonymous XI",
                 "points": 23,
                 "rank": 19
             },
@@ -372,14 +372,14 @@
                 "rank": 22
             },
             {
-                "manager": "Terancio Fernandes",
-                "team": "MI.RA.KA 11",
+                "manager": "Fenzier Gomes",
+                "team": "WOLF PACK",
                 "points": 21,
                 "rank": 23
             },
             {
-                "manager": "Fenzier Gomes",
-                "team": "WOLF PACK",
+                "manager": "Terancio Fernandes",
+                "team": "MI.RA.KA 11",
                 "points": 21,
                 "rank": 24
             },
@@ -414,14 +414,14 @@
                 "rank": 29
             },
             {
-                "manager": "Myron Almeida",
-                "team": "Sweet As Kiwis",
+                "manager": "Binod Dahal",
+                "team": "Everest XI",
                 "points": 16,
                 "rank": 30
             },
             {
-                "manager": "Binod Dahal",
-                "team": "Everest XI",
+                "manager": "Myron Almeida",
+                "team": "Sweet As Kiwis",
                 "points": 16,
                 "rank": 31
             },
