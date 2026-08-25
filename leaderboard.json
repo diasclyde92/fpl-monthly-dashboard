@@ -1,17 +1,17 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "25 August 2026 00:36",
+    "last_updated": "25 August 2026 06:25",
     "overall": [
-        {
-            "rank": 1,
-            "manager": "Aldridge Samuel",
-            "team": "Bruno Dos Tres",
-            "points": 76
-        },
         {
             "rank": 1,
             "manager": "Adrino Fernandes",
             "team": "BiG BaNaNa's",
+            "points": 76
+        },
+        {
+            "rank": 1,
+            "manager": "Aldridge Samuel",
+            "team": "Bruno Dos Tres",
             "points": 76
         },
         {
@@ -70,26 +70,26 @@
         },
         {
             "rank": 12,
-            "manager": "Elroy Pereira",
-            "team": "Elroy 01",
-            "points": 50
-        },
-        {
-            "rank": 12,
             "manager": "Eurico Viegas",
             "team": "Sandlole FC",
             "points": 50
         },
         {
-            "rank": 14,
-            "manager": "Glen sequeira",
-            "team": "3 @the back..ATTACK!",
-            "points": 49
+            "rank": 12,
+            "manager": "Elroy Pereira",
+            "team": "Elroy 01",
+            "points": 50
         },
         {
             "rank": 14,
             "manager": "orvil matos",
             "team": "Relegation Loading..",
+            "points": 49
+        },
+        {
+            "rank": 14,
+            "manager": "Glen sequeira",
+            "team": "3 @the back..ATTACK!",
             "points": 49
         },
         {
@@ -112,14 +112,14 @@
         },
         {
             "rank": 19,
-            "manager": "Cliffton Barbosa",
-            "team": "CSB UTD",
+            "manager": "Myron Almeida",
+            "team": "Sweet As Kiwis",
             "points": 47
         },
         {
             "rank": 19,
-            "manager": "Myron Almeida",
-            "team": "Sweet As Kiwis",
+            "manager": "Cliffton Barbosa",
+            "team": "CSB UTD",
             "points": 47
         },
         {
@@ -130,8 +130,8 @@
         },
         {
             "rank": 22,
-            "manager": "Clint Luis",
-            "team": "Puchu XI",
+            "manager": "Nathan Rebelo",
+            "team": "Island Boy",
             "points": 44
         },
         {
@@ -142,8 +142,8 @@
         },
         {
             "rank": 22,
-            "manager": "Nathan Rebelo",
-            "team": "Island Boy",
+            "manager": "Clint Luis",
+            "team": "Puchu XI",
             "points": 44
         },
         {
@@ -246,14 +246,14 @@
     "months": {
         "August": [
             {
-                "manager": "Aldridge Samuel",
-                "team": "Bruno Dos Tres",
+                "manager": "Adrino Fernandes",
+                "team": "BiG BaNaNa's",
                 "points": 76,
                 "rank": 1
             },
             {
-                "manager": "Adrino Fernandes",
-                "team": "BiG BaNaNa's",
+                "manager": "Aldridge Samuel",
+                "team": "Bruno Dos Tres",
                 "points": 76,
                 "rank": 2
             },
@@ -312,26 +312,26 @@
                 "rank": 11
             },
             {
-                "manager": "Elroy Pereira",
-                "team": "Elroy 01",
+                "manager": "Eurico Viegas",
+                "team": "Sandlole FC",
                 "points": 50,
                 "rank": 12
             },
             {
-                "manager": "Eurico Viegas",
-                "team": "Sandlole FC",
+                "manager": "Elroy Pereira",
+                "team": "Elroy 01",
                 "points": 50,
                 "rank": 13
             },
             {
-                "manager": "Glen sequeira",
-                "team": "3 @the back..ATTACK!",
+                "manager": "orvil matos",
+                "team": "Relegation Loading..",
                 "points": 49,
                 "rank": 14
             },
             {
-                "manager": "orvil matos",
-                "team": "Relegation Loading..",
+                "manager": "Glen sequeira",
+                "team": "3 @the back..ATTACK!",
                 "points": 49,
                 "rank": 15
             },
@@ -354,14 +354,14 @@
                 "rank": 18
             },
             {
-                "manager": "Cliffton Barbosa",
-                "team": "CSB UTD",
+                "manager": "Myron Almeida",
+                "team": "Sweet As Kiwis",
                 "points": 47,
                 "rank": 19
             },
             {
-                "manager": "Myron Almeida",
-                "team": "Sweet As Kiwis",
+                "manager": "Cliffton Barbosa",
+                "team": "CSB UTD",
                 "points": 47,
                 "rank": 20
             },
@@ -372,8 +372,8 @@
                 "rank": 21
             },
             {
-                "manager": "Clint Luis",
-                "team": "Puchu XI",
+                "manager": "Nathan Rebelo",
+                "team": "Island Boy",
                 "points": 44,
                 "rank": 22
             },
@@ -384,8 +384,8 @@
                 "rank": 23
             },
             {
-                "manager": "Nathan Rebelo",
-                "team": "Island Boy",
+                "manager": "Clint Luis",
+                "team": "Puchu XI",
                 "points": 44,
                 "rank": 24
             },
