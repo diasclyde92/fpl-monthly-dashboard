@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "29 August 2026 20:07",
+    "last_updated": "30 August 2026 02:14",
     "overall": [
         {
             "rank": 1,
@@ -84,7 +84,7 @@
             "rank": 14,
             "manager": "Fenzier Gomes",
             "team": "WOLF PACK",
-            "points": 85
+            "points": 83
         },
         {
             "rank": 15,
@@ -106,14 +106,14 @@
         },
         {
             "rank": 18,
-            "manager": "jericho Fernandes",
-            "team": "Anonymous XI",
+            "manager": "Agnel D",
+            "team": "Agnelo",
             "points": 79
         },
         {
             "rank": 18,
-            "manager": "Agnel D",
-            "team": "Agnelo",
+            "manager": "jericho Fernandes",
+            "team": "Anonymous XI",
             "points": 79
         },
         {
@@ -172,14 +172,14 @@
         },
         {
             "rank": 29,
-            "manager": "Terancio Fernandes",
-            "team": "MI.RA.KA 11",
+            "manager": "Cancio Fernandes",
+            "team": "x Merc Benzo x",
             "points": 69
         },
         {
             "rank": 29,
-            "manager": "Cancio Fernandes",
-            "team": "x Merc Benzo x",
+            "manager": "Terancio Fernandes",
+            "team": "MI.RA.KA 11",
             "points": 69
         },
         {
@@ -190,14 +190,14 @@
         },
         {
             "rank": 32,
-            "manager": "Belinda D Souza",
-            "team": "FC Unbothered \ufffd",
+            "manager": "Jason Fernandes",
+            "team": "Bruno Give Me Rice",
             "points": 65
         },
         {
             "rank": 32,
-            "manager": "Jason Fernandes",
-            "team": "Bruno Give Me Rice",
+            "manager": "Belinda D Souza",
+            "team": "FC Unbothered \ufffd",
             "points": 65
         },
         {
@@ -348,14 +348,14 @@
                 "rank": 17
             },
             {
-                "manager": "jericho Fernandes",
-                "team": "Anonymous XI",
+                "manager": "Agnel D",
+                "team": "Agnelo",
                 "points": 79,
                 "rank": 18
             },
             {
-                "manager": "Agnel D",
-                "team": "Agnelo",
+                "manager": "jericho Fernandes",
+                "team": "Anonymous XI",
                 "points": 79,
                 "rank": 19
             },
@@ -414,14 +414,14 @@
                 "rank": 28
             },
             {
-                "manager": "Terancio Fernandes",
-                "team": "MI.RA.KA 11",
+                "manager": "Cancio Fernandes",
+                "team": "x Merc Benzo x",
                 "points": 69,
                 "rank": 29
             },
             {
-                "manager": "Cancio Fernandes",
-                "team": "x Merc Benzo x",
+                "manager": "Terancio Fernandes",
+                "team": "MI.RA.KA 11",
                 "points": 69,
                 "rank": 30
             },
@@ -438,14 +438,14 @@
                 "rank": 32
             },
             {
-                "manager": "Belinda D Souza",
-                "team": "FC Unbothered \ufffd",
+                "manager": "Jason Fernandes",
+                "team": "Bruno Give Me Rice",
                 "points": 65,
                 "rank": 33
             },
             {
-                "manager": "Jason Fernandes",
-                "team": "Bruno Give Me Rice",
+                "manager": "Belinda D Souza",
+                "team": "FC Unbothered \ufffd",
                 "points": 65,
                 "rank": 34
             },
