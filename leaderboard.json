@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "31 August 2026 02:09",
+    "last_updated": "31 August 2026 12:04",
     "overall": [
         {
             "rank": 1,
@@ -208,14 +208,14 @@
         },
         {
             "rank": 35,
-            "manager": "Ramiro Rodrigues",
-            "team": "nunu boys",
+            "manager": "Petron Fernandes",
+            "team": "Skulldustz",
             "points": 97
         },
         {
             "rank": 35,
-            "manager": "Petron Fernandes",
-            "team": "Skulldustz",
+            "manager": "Ramiro Rodrigues",
+            "team": "nunu boys",
             "points": 97
         },
         {
@@ -232,14 +232,14 @@
         },
         {
             "rank": 39,
-            "manager": "Terancio Fernandes",
-            "team": "MI.RA.KA 11",
+            "manager": "Vivancio Dias",
+            "team": "cauliflower",
             "points": 80
         },
         {
             "rank": 39,
-            "manager": "Vivancio Dias",
-            "team": "cauliflower",
+            "manager": "Terancio Fernandes",
+            "team": "MI.RA.KA 11",
             "points": 80
         }
     ],
