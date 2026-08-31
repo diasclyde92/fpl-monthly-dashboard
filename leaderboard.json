@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "30 August 2026 20:14",
+    "last_updated": "31 August 2026 02:09",
     "overall": [
         {
             "rank": 1,
@@ -40,14 +40,14 @@
         },
         {
             "rank": 7,
-            "manager": "granville braganza",
-            "team": "A350",
+            "manager": "Alister Godinho",
+            "team": "BoomBoy",
             "points": 150
         },
         {
             "rank": 7,
-            "manager": "Alister Godinho",
-            "team": "BoomBoy",
+            "manager": "granville braganza",
+            "team": "A350",
             "points": 150
         },
         {
@@ -282,14 +282,14 @@
                 "rank": 6
             },
             {
-                "manager": "granville braganza",
-                "team": "A350",
+                "manager": "Alister Godinho",
+                "team": "BoomBoy",
                 "points": 150,
                 "rank": 7
             },
             {
-                "manager": "Alister Godinho",
-                "team": "BoomBoy",
+                "manager": "granville braganza",
+                "team": "A350",
                 "points": 150,
                 "rank": 8
             },
