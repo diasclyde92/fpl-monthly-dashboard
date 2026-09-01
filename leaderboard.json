@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "01 September 2026 02:29",
+    "last_updated": "01 September 2026 10:42",
     "overall": [
         {
             "rank": 1,
@@ -34,14 +34,14 @@
         },
         {
             "rank": 6,
-            "manager": "granville braganza",
-            "team": "A350",
+            "manager": "Alister Godinho",
+            "team": "BoomBoy",
             "points": 161
         },
         {
             "rank": 6,
-            "manager": "Alister Godinho",
-            "team": "BoomBoy",
+            "manager": "granville braganza",
+            "team": "A350",
             "points": 161
         },
         {
@@ -154,14 +154,14 @@
         },
         {
             "rank": 26,
-            "manager": "Elroy Pereira",
-            "team": "Elroy 01",
+            "manager": "Nathan Rebelo",
+            "team": "Island Boy",
             "points": 122
         },
         {
             "rank": 26,
-            "manager": "Nathan Rebelo",
-            "team": "Island Boy",
+            "manager": "Elroy Pereira",
+            "team": "Elroy 01",
             "points": 122
         },
         {
@@ -172,14 +172,14 @@
         },
         {
             "rank": 29,
-            "manager": "Xerino Pereira",
-            "team": "Pereira 11",
+            "manager": "Savio Fernandes",
+            "team": "Gunners-Champions14",
             "points": 120
         },
         {
             "rank": 29,
-            "manager": "Savio Fernandes",
-            "team": "Gunners-Champions14",
+            "manager": "Xerino Pereira",
+            "team": "Pereira 11",
             "points": 120
         },
         {
@@ -276,14 +276,14 @@
                 "rank": 5
             },
             {
-                "manager": "granville braganza",
-                "team": "A350",
+                "manager": "Alister Godinho",
+                "team": "BoomBoy",
                 "points": 161,
                 "rank": 6
             },
             {
-                "manager": "Alister Godinho",
-                "team": "BoomBoy",
+                "manager": "granville braganza",
+                "team": "A350",
                 "points": 161,
                 "rank": 7
             },
@@ -344,7 +344,7 @@
             {
                 "manager": "Myron Almeida",
                 "team": "Sweet As Kiwis",
-                "points": 141,
+                "points": 142,
                 "rank": 17
             },
             {
@@ -362,7 +362,7 @@
             {
                 "manager": "Agnel D",
                 "team": "Agnelo",
-                "points": 135,
+                "points": 136,
                 "rank": 20
             },
             {
@@ -372,45 +372,45 @@
                 "rank": 21
             },
             {
-                "manager": "Kevin Almeida",
-                "team": "Ke-Win de Blue",
-                "points": 132,
+                "manager": "Nathan Rebelo",
+                "team": "Island Boy",
+                "points": 134,
                 "rank": 22
             },
             {
                 "manager": "Cliffton Barbosa",
                 "team": "CSB UTD",
-                "points": 131,
+                "points": 133,
                 "rank": 23
+            },
+            {
+                "manager": "Kevin Almeida",
+                "team": "Ke-Win de Blue",
+                "points": 132,
+                "rank": 24
+            },
+            {
+                "manager": "Cancio Fernandes",
+                "team": "x Merc Benzo x",
+                "points": 132,
+                "rank": 25
             },
             {
                 "manager": "Tyrus Dsouza",
                 "team": "Ha-Cunha Matata",
-                "points": 126,
-                "rank": 24
+                "points": 128,
+                "rank": 26
             },
             {
                 "manager": "Irish Viegas",
                 "team": "Dai Dai",
                 "points": 124,
-                "rank": 25
+                "rank": 27
             },
             {
                 "manager": "Elroy Pereira",
                 "team": "Elroy 01",
-                "points": 122,
-                "rank": 26
-            },
-            {
-                "manager": "Nathan Rebelo",
-                "team": "Island Boy",
-                "points": 122,
-                "rank": 27
-            },
-            {
-                "manager": "Xerino Pereira",
-                "team": "Pereira 11",
-                "points": 120,
+                "points": 124,
                 "rank": 28
             },
             {
@@ -420,9 +420,9 @@
                 "rank": 29
             },
             {
-                "manager": "Cancio Fernandes",
-                "team": "x Merc Benzo x",
-                "points": 119,
+                "manager": "Xerino Pereira",
+                "team": "Pereira 11",
+                "points": 120,
                 "rank": 30
             },
             {
@@ -444,33 +444,33 @@
                 "rank": 33
             },
             {
+                "manager": "Jonathan Fernandes",
+                "team": "CypriotUzzo",
+                "points": 109,
+                "rank": 34
+            },
+            {
+                "manager": "Terancio Fernandes",
+                "team": "MI.RA.KA 11",
+                "points": 109,
+                "rank": 35
+            },
+            {
+                "manager": "Petron Fernandes",
+                "team": "Skulldustz",
+                "points": 108,
+                "rank": 36
+            },
+            {
                 "manager": "Clint Luis",
                 "team": "Puchu XI",
-                "points": 105,
-                "rank": 34
+                "points": 107,
+                "rank": 37
             },
             {
                 "manager": "Darwin Fernandes",
                 "team": "ElectroB\u00f9zz",
                 "points": 104,
-                "rank": 35
-            },
-            {
-                "manager": "Jonathan Fernandes",
-                "team": "CypriotUzzo",
-                "points": 103,
-                "rank": 36
-            },
-            {
-                "manager": "Terancio Fernandes",
-                "team": "MI.RA.KA 11",
-                "points": 100,
-                "rank": 37
-            },
-            {
-                "manager": "Petron Fernandes",
-                "team": "Skulldustz",
-                "points": 97,
                 "rank": 38
             },
             {
@@ -482,7 +482,7 @@
             {
                 "manager": "Vivancio Dias",
                 "team": "cauliflower",
-                "points": 80,
+                "points": 81,
                 "rank": 40
             }
         ]
