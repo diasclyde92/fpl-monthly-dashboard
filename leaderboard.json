@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "03 September 2026 10:19",
+    "last_updated": "03 September 2026 15:25",
     "overall": [
         {
             "rank": 1,
@@ -34,14 +34,14 @@
         },
         {
             "rank": 6,
-            "manager": "granville braganza",
-            "team": "A350",
+            "manager": "Alister Godinho",
+            "team": "BoomBoy",
             "points": 161
         },
         {
             "rank": 6,
-            "manager": "Alister Godinho",
-            "team": "BoomBoy",
+            "manager": "granville braganza",
+            "team": "A350",
             "points": 161
         },
         {
@@ -70,14 +70,14 @@
         },
         {
             "rank": 12,
-            "manager": "Binod Dahal",
-            "team": "Everest XI",
+            "manager": "Belinda D Souza",
+            "team": "FC Unbothered \ufffd",
             "points": 152
         },
         {
             "rank": 12,
-            "manager": "Belinda D Souza",
-            "team": "FC Unbothered \ufffd",
+            "manager": "Binod Dahal",
+            "team": "Everest XI",
             "points": 152
         },
         {
@@ -142,14 +142,14 @@
         },
         {
             "rank": 24,
-            "manager": "Kevin Almeida",
-            "team": "Ke-Win de Blue",
+            "manager": "Cancio Fernandes",
+            "team": "x Merc Benzo x",
             "points": 132
         },
         {
             "rank": 24,
-            "manager": "Cancio Fernandes",
-            "team": "x Merc Benzo x",
+            "manager": "Kevin Almeida",
+            "team": "Ke-Win de Blue",
             "points": 132
         },
         {
@@ -276,14 +276,14 @@
                 "rank": 5
             },
             {
-                "manager": "granville braganza",
-                "team": "A350",
+                "manager": "Alister Godinho",
+                "team": "BoomBoy",
                 "points": 161,
                 "rank": 6
             },
             {
-                "manager": "Alister Godinho",
-                "team": "BoomBoy",
+                "manager": "granville braganza",
+                "team": "A350",
                 "points": 161,
                 "rank": 7
             },
@@ -312,14 +312,14 @@
                 "rank": 11
             },
             {
-                "manager": "Binod Dahal",
-                "team": "Everest XI",
+                "manager": "Belinda D Souza",
+                "team": "FC Unbothered \ufffd",
                 "points": 152,
                 "rank": 12
             },
             {
-                "manager": "Belinda D Souza",
-                "team": "FC Unbothered \ufffd",
+                "manager": "Binod Dahal",
+                "team": "Everest XI",
                 "points": 152,
                 "rank": 13
             },
@@ -384,14 +384,14 @@
                 "rank": 23
             },
             {
-                "manager": "Kevin Almeida",
-                "team": "Ke-Win de Blue",
+                "manager": "Cancio Fernandes",
+                "team": "x Merc Benzo x",
                 "points": 132,
                 "rank": 24
             },
             {
-                "manager": "Cancio Fernandes",
-                "team": "x Merc Benzo x",
+                "manager": "Kevin Almeida",
+                "team": "Ke-Win de Blue",
                 "points": 132,
                 "rank": 25
             },
