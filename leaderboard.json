@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "04 September 2026 10:06",
+    "last_updated": "04 September 2026 15:22",
     "overall": [
         {
             "rank": 1,
@@ -131,7 +131,7 @@
         {
             "rank": 22,
             "manager": "Glen sequeira",
-            "team": "3 @the back..ATTACK!",
+            "team": "GFS United",
             "points": 134
         },
         {
@@ -172,14 +172,14 @@
         },
         {
             "rank": 29,
-            "manager": "Xerino Pereira",
-            "team": "Pereira 11",
+            "manager": "Savio Fernandes",
+            "team": "Gunners-Champions14",
             "points": 120
         },
         {
             "rank": 29,
-            "manager": "Savio Fernandes",
-            "team": "Gunners-Champions14",
+            "manager": "Xerino Pereira",
+            "team": "Pereira 11",
             "points": 120
         },
         {
@@ -202,14 +202,14 @@
         },
         {
             "rank": 34,
-            "manager": "Terancio Fernandes",
-            "team": "MI.RA.KA 11",
+            "manager": "Jonathan Fernandes",
+            "team": "CypriotUzzo",
             "points": 109
         },
         {
             "rank": 34,
-            "manager": "Jonathan Fernandes",
-            "team": "CypriotUzzo",
+            "manager": "Terancio Fernandes",
+            "team": "MI.RA.KA 11",
             "points": 109
         },
         {
@@ -373,7 +373,7 @@
             },
             {
                 "manager": "Glen sequeira",
-                "team": "3 @the back..ATTACK!",
+                "team": "GFS United",
                 "points": 134,
                 "rank": 22
             },
@@ -414,14 +414,14 @@
                 "rank": 28
             },
             {
-                "manager": "Xerino Pereira",
-                "team": "Pereira 11",
+                "manager": "Savio Fernandes",
+                "team": "Gunners-Champions14",
                 "points": 120,
                 "rank": 29
             },
             {
-                "manager": "Savio Fernandes",
-                "team": "Gunners-Champions14",
+                "manager": "Xerino Pereira",
+                "team": "Pereira 11",
                 "points": 120,
                 "rank": 30
             },
@@ -444,14 +444,14 @@
                 "rank": 33
             },
             {
-                "manager": "Terancio Fernandes",
-                "team": "MI.RA.KA 11",
+                "manager": "Jonathan Fernandes",
+                "team": "CypriotUzzo",
                 "points": 109,
                 "rank": 34
             },
             {
-                "manager": "Jonathan Fernandes",
-                "team": "CypriotUzzo",
+                "manager": "Terancio Fernandes",
+                "team": "MI.RA.KA 11",
                 "points": 109,
                 "rank": 35
             },
