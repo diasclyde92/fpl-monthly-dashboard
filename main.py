@@ -78,12 +78,19 @@ for manager in league["standings"]["results"]:
     history = histories[entry]["current"]
 
     totals = defaultdict(int)
+    gameweek_scores = defaultdict(list)
 
     for gw in history:
 
         month = month_lookup[gw["event"]]
 
         totals[month] += gw["points"]
+        gameweek_scores[month].append(
+            {
+                "gameweek": gw["event"],
+                "points": gw["points"],
+            }
+        )
 
     overall.append(
         {
@@ -101,6 +108,7 @@ for manager in league["standings"]["results"]:
                 "manager": manager["player_name"],
                 "team": manager["entry_name"],
                 "points": pts,
+                "gameweeks": gameweek_scores[month],
             }
         )
 

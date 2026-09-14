@@ -297,6 +297,10 @@ Podium
 
     transition:.35s;
 
+    display:flex;
+
+    flex-direction:column;
+
 }
 
 .podium-card:hover{
@@ -374,6 +378,106 @@ Podium Text
 }
 
 /* ===============================
+Gameweek scores
+================================ */
+
+.gameweek-scores{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:7px;
+
+}
+
+.gameweek-score{
+
+    display:inline-flex;
+
+    align-items:baseline;
+
+    gap:5px;
+
+    padding:5px 8px;
+
+    border-radius:9px;
+
+    background:rgba(255,255,255,.08);
+
+    border:1px solid rgba(255,255,255,.1);
+
+    white-space:nowrap;
+
+    font-size:.78rem;
+
+    line-height:1;
+
+}
+
+.gameweek-label{
+
+    color:var(--muted);
+
+    font-size:.68rem;
+
+    font-weight:600;
+
+    text-transform:uppercase;
+
+}
+
+.gameweek-score strong{
+
+    font-size:.88rem;
+
+}
+
+.podium .gameweek-scores{
+
+    justify-content:center;
+
+    margin-top:15px;
+
+    padding-top:14px;
+
+    border-top:1px solid rgba(17,17,17,.16);
+
+}
+
+.podium .gameweek-score{
+
+    background:rgba(255,255,255,.28);
+
+    border-color:rgba(17,17,17,.08);
+
+}
+
+.podium .gameweek-label{
+
+    color:rgba(17,17,17,.64);
+
+}
+
+.gameweek-cell{
+
+    min-width:210px;
+
+}
+
+.gameweek-empty{
+
+    display:inline-block;
+
+    color:var(--muted);
+
+    font-size:.78rem;
+
+    font-style:italic;
+
+}
+
+/* ===============================
 Tables
 ================================ */
 
@@ -412,6 +516,12 @@ Tables
 .table td{
 
     border-color:rgba(255,255,255,.08);
+
+}
+
+.table .gameweek-scores{
+
+    max-width:320px;
 
 }
 
@@ -602,6 +712,12 @@ Responsive
     .podium-points{
 
         font-size:1.5rem;
+
+    }
+
+    .gameweek-cell{
+
+        min-width:190px;
 
     }
 

@@ -109,21 +109,53 @@ function createPodiumCard(icon, manager) {
 
     if (!manager) return "";
 
+    const gameweeks = createGameweekScores(manager.gameweeks, "podium");
+
     return `
         <div class="podium-rank">${icon}</div>
 
         <div class="podium-name">
-            ${manager.manager}
+            ${escapeHtml(manager.manager)}
         </div>
 
         <div class="podium-team">
-            ${manager.team}
+            ${escapeHtml(manager.team)}
         </div>
 
         <div class="podium-points">
             ${manager.points} pts
         </div>
+
+        ${gameweeks}
     `;
+
+}
+
+function createGameweekScores(gameweeks, variant = "table") {
+
+    if (!gameweeks || !gameweeks.length) {
+        return `<span class="gameweek-empty">Gameweek details available after the next update</span>`;
+    }
+
+    const scores = gameweeks.map(gw => `
+        <span class="gameweek-score" aria-label="Gameweek ${gw.gameweek}: ${gw.points} points">
+            <span class="gameweek-label">GW ${gw.gameweek}</span>
+            <strong>${gw.points}</strong>
+        </span>
+    `).join("");
+
+    return `<div class="gameweek-scores ${variant}">${scores}</div>`;
+
+}
+
+function escapeHtml(value) {
+
+    return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
 
 }
 
@@ -151,9 +183,11 @@ function buildMonthlyTable(managers) {
 
                 <td>${badge}</td>
 
-                <td>${manager.manager}</td>
+                <td>${escapeHtml(manager.manager)}</td>
 
-                <td>${manager.team}</td>
+                <td>${escapeHtml(manager.team)}</td>
+
+                <td class="gameweek-cell">${createGameweekScores(manager.gameweeks)}</td>
 
                 <td><strong>${manager.points}</strong></td>
 
@@ -188,9 +222,9 @@ function buildOverall() {
 
                 <td>${badge}</td>
 
-                <td>${manager.manager}</td>
+                <td>${escapeHtml(manager.manager)}</td>
 
-                <td>${manager.team}</td>
+                <td>${escapeHtml(manager.team)}</td>
 
                 <td><strong>${manager.points}</strong></td>
 
