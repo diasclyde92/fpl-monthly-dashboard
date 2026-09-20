@@ -1,30 +1,30 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "20 September 2026 15:02",
+    "last_updated": "20 September 2026 19:55",
     "overall": [
         {
             "rank": 1,
             "manager": "Lynaldo Costa",
             "team": "Pitu Echelons",
-            "points": 385
+            "points": 387
         },
         {
             "rank": 2,
             "manager": "Binod Dahal",
             "team": "Everest XI",
-            "points": 364
+            "points": 370
         },
         {
             "rank": 3,
-            "manager": "Nestor Dsilva",
-            "team": "Take It Eze",
-            "points": 352
+            "manager": "Kevin Fernandes",
+            "team": "Myles Ahead",
+            "points": 354
         },
         {
             "rank": 4,
-            "manager": "Kevin Fernandes",
-            "team": "Myles Ahead",
-            "points": 350
+            "manager": "Nestor Dsilva",
+            "team": "Take It Eze",
+            "points": 352
         },
         {
             "rank": 5,
@@ -36,73 +36,73 @@
             "rank": 6,
             "manager": "Cliffton Barbosa",
             "team": "CSB UTD",
-            "points": 337
+            "points": 339
         },
         {
             "rank": 7,
+            "manager": "Aldridge Samuel",
+            "team": "Bruno Dos Tres",
+            "points": 330
+        },
+        {
+            "rank": 8,
             "manager": "Fenzier Gomes",
             "team": "WOLF PACK",
             "points": 324
         },
         {
-            "rank": 8,
-            "manager": "Aldridge Samuel",
-            "team": "Bruno Dos Tres",
+            "rank": 9,
+            "manager": "Glen sequeira",
+            "team": "GFS United",
             "points": 324
         },
         {
-            "rank": 9,
+            "rank": 10,
+            "manager": "jericho Fernandes",
+            "team": "Anonymous XI",
+            "points": 324
+        },
+        {
+            "rank": 11,
             "manager": "Alister Godinho",
             "team": "BoomBoy",
             "points": 323
         },
         {
-            "rank": 10,
-            "manager": "Glen sequeira",
-            "team": "GFS United",
-            "points": 322
-        },
-        {
-            "rank": 11,
-            "manager": "jericho Fernandes",
-            "team": "Anonymous XI",
-            "points": 322
-        },
-        {
             "rank": 12,
             "manager": "Eurico Viegas",
             "team": "Sandlole FC",
-            "points": 320
+            "points": 322
         },
         {
             "rank": 13,
-            "manager": "Adrino Fernandes",
-            "team": "BiG BaNaNa's",
-            "points": 317
+            "manager": "Myron Almeida",
+            "team": "Sweet As Kiwis",
+            "points": 320
         },
         {
             "rank": 14,
-            "manager": "Myron Almeida",
-            "team": "Sweet As Kiwis",
-            "points": 316
+            "manager": "Adrino Fernandes",
+            "team": "BiG BaNaNa's",
+            "points": 319
         },
         {
             "rank": 15,
-            "manager": "Kevin Almeida",
-            "team": "Ke-Win de Blue",
-            "points": 313
+            "manager": "orvil matos",
+            "team": "Relegation Loading..",
+            "points": 318
         },
         {
             "rank": 16,
-            "manager": "orvil matos",
-            "team": "Relegation Loading..",
-            "points": 312
+            "manager": "Kevin Almeida",
+            "team": "Ke-Win de Blue",
+            "points": 315
         },
         {
             "rank": 17,
             "manager": "Belinda D Souza",
             "team": "FC Unbothered \ufffd",
-            "points": 312
+            "points": 314
         },
         {
             "rank": 18,
@@ -120,76 +120,76 @@
             "rank": 20,
             "manager": "Darwin Fernandes",
             "team": "ElectroB\u00f9zz",
-            "points": 295
+            "points": 297
         },
         {
             "rank": 21,
+            "manager": "Nathan Rebelo",
+            "team": "Island Boy",
+            "points": 296
+        },
+        {
+            "rank": 22,
+            "manager": "Alister Costa",
+            "team": "GoalDigg3rs!\ufffd",
+            "points": 293
+        },
+        {
+            "rank": 23,
+            "manager": "Agnel D",
+            "team": "Agnelo",
+            "points": 291
+        },
+        {
+            "rank": 24,
+            "manager": "Jonathan Fernandes",
+            "team": "CypriotUzzo",
+            "points": 288
+        },
+        {
+            "rank": 25,
+            "manager": "Valdivia Rose Braganza",
+            "team": "Bend it like Bazinga",
+            "points": 287
+        },
+        {
+            "rank": 26,
             "manager": "Dylan Miranda",
             "team": "404 Root",
             "points": 287
         },
         {
-            "rank": 22,
-            "manager": "Nathan Rebelo",
-            "team": "Island Boy",
-            "points": 286
-        },
-        {
-            "rank": 23,
-            "manager": "Alister Costa",
-            "team": "GoalDigg3rs!\ufffd",
-            "points": 285
-        },
-        {
-            "rank": 24,
-            "manager": "Agnel D",
-            "team": "Agnelo",
-            "points": 285
-        },
-        {
-            "rank": 25,
+            "rank": 27,
             "manager": "Jason Fernandes",
             "team": "Bruno Give Me Rice",
             "points": 285
         },
         {
-            "rank": 26,
-            "manager": "Valdivia Rose Braganza",
-            "team": "Bend it like Bazinga",
-            "points": 285
-        },
-        {
-            "rank": 26,
+            "rank": 28,
             "manager": "Irish Viegas",
             "team": "Dai Dai",
             "points": 285
         },
         {
-            "rank": 28,
-            "manager": "Jonathan Fernandes",
-            "team": "CypriotUzzo",
-            "points": 284
+            "rank": 29,
+            "manager": "clyde dias",
+            "team": "GameTime \ufffd",
+            "points": 280
         },
         {
-            "rank": 29,
+            "rank": 30,
             "manager": "Terancio Fernandes",
             "team": "MI.RA.KA 11",
             "points": 278
         },
         {
-            "rank": 30,
-            "manager": "clyde dias",
-            "team": "GameTime \ufffd",
-            "points": 275
-        },
-        {
             "rank": 31,
             "manager": "Cancio Fernandes",
             "team": "x Merc Benzo x",
-            "points": 269
+            "points": 271
         },
         {
-            "rank": 31,
+            "rank": 32,
             "manager": "Shaina Silveira",
             "team": "No more pep talks",
             "points": 269
@@ -198,49 +198,49 @@
             "rank": 33,
             "manager": "Pelvino Da costa",
             "team": "glory glory manutd..",
-            "points": 264
+            "points": 268
         },
         {
             "rank": 34,
+            "manager": "Xerino Pereira",
+            "team": "Pereira 11",
+            "points": 263
+        },
+        {
+            "rank": 35,
             "manager": "Savio Fernandes",
             "team": "Gunners-Champions14",
             "points": 254
         },
         {
-            "rank": 35,
-            "manager": "Elroy Pereira",
-            "team": "Elroy 01",
-            "points": 248
-        },
-        {
             "rank": 36,
             "manager": "Tyrus Dsouza",
             "team": "Ha-Cunha Matata",
-            "points": 248
+            "points": 254
         },
         {
             "rank": 37,
-            "manager": "Xerino Pereira",
-            "team": "Pereira 11",
-            "points": 247
+            "manager": "Elroy Pereira",
+            "team": "Elroy 01",
+            "points": 252
         },
         {
             "rank": 38,
             "manager": "Ramiro Rodrigues",
             "team": "nunu boys",
-            "points": 245
+            "points": 246
         },
         {
             "rank": 39,
             "manager": "Vivancio Dias",
             "team": "cauliflower",
-            "points": 236
+            "points": 238
         },
         {
             "rank": 40,
             "manager": "Petron Fernandes",
             "team": "Skulldustz",
-            "points": 219
+            "points": 225
         }
     ],
     "months": {
@@ -694,22 +694,6 @@
                 "rank": 28
             },
             {
-                "manager": "Savio Fernandes",
-                "team": "Gunners-Champions14",
-                "points": 120,
-                "gameweeks": [
-                    {
-                        "gameweek": 1,
-                        "points": 58
-                    },
-                    {
-                        "gameweek": 2,
-                        "points": 62
-                    }
-                ],
-                "rank": 29
-            },
-            {
                 "manager": "Xerino Pereira",
                 "team": "Pereira 11",
                 "points": 120,
@@ -721,6 +705,22 @@
                     {
                         "gameweek": 2,
                         "points": 80
+                    }
+                ],
+                "rank": 29
+            },
+            {
+                "manager": "Savio Fernandes",
+                "team": "Gunners-Champions14",
+                "points": 120,
+                "gameweeks": [
+                    {
+                        "gameweek": 1,
+                        "points": 58
+                    },
+                    {
+                        "gameweek": 2,
+                        "points": 62
                     }
                 ],
                 "rank": 30
@@ -890,7 +890,7 @@
             {
                 "manager": "Binod Dahal",
                 "team": "Everest XI",
-                "points": 183,
+                "points": 218,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -902,35 +902,15 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 11
+                        "points": 46
                     }
                 ],
                 "rank": 1
             },
             {
-                "manager": "Lynaldo Costa",
-                "team": "Pitu Echelons",
-                "points": 181,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 56
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 97
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 28
-                    }
-                ],
-                "rank": 2
-            },
-            {
                 "manager": "Cliffton Barbosa",
                 "team": "CSB UTD",
-                "points": 175,
+                "points": 206,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -942,35 +922,35 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 20
+                        "points": 51
+                    }
+                ],
+                "rank": 2
+            },
+            {
+                "manager": "Lynaldo Costa",
+                "team": "Pitu Echelons",
+                "points": 202,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 56
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 97
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 49
                     }
                 ],
                 "rank": 3
             },
             {
-                "manager": "Glen sequeira",
-                "team": "GFS United",
-                "points": 168,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 68
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 80
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 20
-                    }
-                ],
-                "rank": 4
-            },
-            {
                 "manager": "Kevin Fernandes",
                 "team": "Myles Ahead",
-                "points": 167,
+                "points": 198,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -982,15 +962,15 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 25
+                        "points": 56
                     }
                 ],
-                "rank": 5
+                "rank": 4
             },
             {
                 "manager": "Clint Luis",
                 "team": "Puchu XI",
-                "points": 167,
+                "points": 195,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1002,55 +982,15 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 6
+                        "points": 34
                     }
                 ],
-                "rank": 6
-            },
-            {
-                "manager": "Nestor Dsilva",
-                "team": "Take It Eze",
-                "points": 161,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 53
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 91
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 17
-                    }
-                ],
-                "rank": 7
-            },
-            {
-                "manager": "Rozwin Antao",
-                "team": "Change the Name",
-                "points": 157,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 65
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 70
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 22
-                    }
-                ],
-                "rank": 8
+                "rank": 5
             },
             {
                 "manager": "Darwin Fernandes",
                 "team": "ElectroB\u00f9zz",
-                "points": 157,
+                "points": 193,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1062,15 +1002,95 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 20
+                        "points": 56
+                    }
+                ],
+                "rank": 6
+            },
+            {
+                "manager": "Glen sequeira",
+                "team": "GFS United",
+                "points": 190,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 68
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 80
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 42
+                    }
+                ],
+                "rank": 7
+            },
+            {
+                "manager": "Kevin Almeida",
+                "team": "Ke-Win de Blue",
+                "points": 183,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 63
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 65
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 55
+                    }
+                ],
+                "rank": 8
+            },
+            {
+                "manager": "Myron Almeida",
+                "team": "Sweet As Kiwis",
+                "points": 182,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 65
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 71
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 46
                     }
                 ],
                 "rank": 9
             },
             {
+                "manager": "Rozwin Antao",
+                "team": "Change the Name",
+                "points": 181,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 65
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 70
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 46
+                    }
+                ],
+                "rank": 10
+            },
+            {
                 "manager": "Jonathan Fernandes",
                 "team": "CypriotUzzo",
-                "points": 156,
+                "points": 179,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1082,75 +1102,15 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 34
-                    }
-                ],
-                "rank": 10
-            },
-            {
-                "manager": "Kevin Almeida",
-                "team": "Ke-Win de Blue",
-                "points": 153,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 63
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 65
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 25
+                        "points": 57
                     }
                 ],
                 "rank": 11
             },
             {
-                "manager": "Shaina Silveira",
-                "team": "No more pep talks",
-                "points": 153,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 64
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 67
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 22
-                    }
-                ],
-                "rank": 12
-            },
-            {
-                "manager": "Jason Fernandes",
-                "team": "Bruno Give Me Rice",
-                "points": 152,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 58
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 62
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 32
-                    }
-                ],
-                "rank": 13
-            },
-            {
                 "manager": "Fenzier Gomes",
                 "team": "WOLF PACK",
-                "points": 151,
+                "points": 178,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1162,15 +1122,95 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 22
+                        "points": 49
+                    }
+                ],
+                "rank": 12
+            },
+            {
+                "manager": "Shaina Silveira",
+                "team": "No more pep talks",
+                "points": 177,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 64
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 67
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 46
+                    }
+                ],
+                "rank": 13
+            },
+            {
+                "manager": "Nestor Dsilva",
+                "team": "Take It Eze",
+                "points": 173,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 53
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 91
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 29
                     }
                 ],
                 "rank": 14
             },
             {
+                "manager": "Jason Fernandes",
+                "team": "Bruno Give Me Rice",
+                "points": 172,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 58
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 62
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 52
+                    }
+                ],
+                "rank": 15
+            },
+            {
+                "manager": "Ramiro Rodrigues",
+                "team": "nunu boys",
+                "points": 171,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 44
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 83
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 44
+                    }
+                ],
+                "rank": 16
+            },
+            {
                 "manager": "Terancio Fernandes",
                 "team": "MI.RA.KA 11",
-                "points": 150,
+                "points": 169,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1182,115 +1222,15 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 24
-                    }
-                ],
-                "rank": 15
-            },
-            {
-                "manager": "jericho Fernandes",
-                "team": "Anonymous XI",
-                "points": 149,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 44
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 74
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 31
-                    }
-                ],
-                "rank": 16
-            },
-            {
-                "manager": "Myron Almeida",
-                "team": "Sweet As Kiwis",
-                "points": 149,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 65
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 71
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 13
+                        "points": 43
                     }
                 ],
                 "rank": 17
             },
             {
-                "manager": "Irish Viegas",
-                "team": "Dai Dai",
-                "points": 149,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 63
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 68
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 18
-                    }
-                ],
-                "rank": 18
-            },
-            {
-                "manager": "Alister Godinho",
-                "team": "BoomBoy",
-                "points": 144,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 44
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 92
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 8
-                    }
-                ],
-                "rank": 19
-            },
-            {
-                "manager": "Adrino Fernandes",
-                "team": "BiG BaNaNa's",
-                "points": 142,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 54
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 83
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 5
-                    }
-                ],
-                "rank": 20
-            },
-            {
                 "manager": "Belinda D Souza",
                 "team": "FC Unbothered \ufffd",
-                "points": 142,
+                "points": 166,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1302,99 +1242,19 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 21
+                        "points": 45
                     }
                 ],
-                "rank": 21
+                "rank": 18
             },
             {
-                "manager": "Ramiro Rodrigues",
-                "team": "nunu boys",
-                "points": 140,
+                "manager": "Irish Viegas",
+                "team": "Dai Dai",
+                "points": 165,
                 "gameweeks": [
                     {
                         "gameweek": 3,
-                        "points": 44
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 83
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 13
-                    }
-                ],
-                "rank": 22
-            },
-            {
-                "manager": "Vivancio Dias",
-                "team": "cauliflower",
-                "points": 139,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 52
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 71
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 16
-                    }
-                ],
-                "rank": 23
-            },
-            {
-                "manager": "Aldridge Samuel",
-                "team": "Bruno Dos Tres",
-                "points": 138,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 44
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 83
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 11
-                    }
-                ],
-                "rank": 24
-            },
-            {
-                "manager": "Eurico Viegas",
-                "team": "Sandlole FC",
-                "points": 135,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 49
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 79
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 7
-                    }
-                ],
-                "rank": 25
-            },
-            {
-                "manager": "Pelvino Da costa",
-                "team": "glory glory manutd..",
-                "points": 135,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 51
+                        "points": 63
                     },
                     {
                         "gameweek": 4,
@@ -1402,35 +1262,55 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 16
+                        "points": 34
                     }
                 ],
-                "rank": 26
+                "rank": 19
             },
             {
-                "manager": "Dylan Miranda",
-                "team": "404 Root",
-                "points": 132,
+                "manager": "jericho Fernandes",
+                "team": "Anonymous XI",
+                "points": 163,
                 "gameweeks": [
                     {
                         "gameweek": 3,
-                        "points": 45
+                        "points": 44
                     },
                     {
                         "gameweek": 4,
-                        "points": 69
+                        "points": 74
                     },
                     {
                         "gameweek": 5,
-                        "points": 18
+                        "points": 45
                     }
                 ],
-                "rank": 27
+                "rank": 20
+            },
+            {
+                "manager": "Alister Godinho",
+                "team": "BoomBoy",
+                "points": 162,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 44
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 92
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 26
+                    }
+                ],
+                "rank": 21
             },
             {
                 "manager": "Nathan Rebelo",
                 "team": "Island Boy",
-                "points": 132,
+                "points": 162,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1442,55 +1322,55 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 11
+                        "points": 41
                     }
                 ],
-                "rank": 28
+                "rank": 22
             },
             {
-                "manager": "Alister Costa",
-                "team": "GoalDigg3rs!\ufffd",
-                "points": 127,
+                "manager": "Aldridge Samuel",
+                "team": "Bruno Dos Tres",
+                "points": 161,
                 "gameweeks": [
                     {
                         "gameweek": 3,
-                        "points": 54
+                        "points": 44
                     },
                     {
                         "gameweek": 4,
-                        "points": 60
+                        "points": 83
                     },
                     {
                         "gameweek": 5,
-                        "points": 13
+                        "points": 34
                     }
                 ],
-                "rank": 29
+                "rank": 23
             },
             {
-                "manager": "Agnel D",
-                "team": "Agnelo",
-                "points": 127,
+                "manager": "Eurico Viegas",
+                "team": "Sandlole FC",
+                "points": 161,
                 "gameweeks": [
                     {
                         "gameweek": 3,
-                        "points": 55
+                        "points": 49
                     },
                     {
                         "gameweek": 4,
-                        "points": 70
+                        "points": 79
                     },
                     {
                         "gameweek": 5,
-                        "points": 2
+                        "points": 33
                     }
                 ],
-                "rank": 30
+                "rank": 24
             },
             {
                 "manager": "orvil matos",
                 "team": "Relegation Loading..",
-                "points": 124,
+                "points": 161,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1502,7 +1382,127 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 14
+                        "points": 51
+                    }
+                ],
+                "rank": 25
+            },
+            {
+                "manager": "Adrino Fernandes",
+                "team": "BiG BaNaNa's",
+                "points": 159,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 54
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 83
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 22
+                    }
+                ],
+                "rank": 26
+            },
+            {
+                "manager": "Vivancio Dias",
+                "team": "cauliflower",
+                "points": 157,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 52
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 71
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 34
+                    }
+                ],
+                "rank": 27
+            },
+            {
+                "manager": "Alister Costa",
+                "team": "GoalDigg3rs!\ufffd",
+                "points": 156,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 54
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 60
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 42
+                    }
+                ],
+                "rank": 28
+            },
+            {
+                "manager": "Agnel D",
+                "team": "Agnelo",
+                "points": 155,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 55
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 70
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 30
+                    }
+                ],
+                "rank": 29
+            },
+            {
+                "manager": "Pelvino Da costa",
+                "team": "glory glory manutd..",
+                "points": 155,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 51
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 68
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 36
+                    }
+                ],
+                "rank": 30
+            },
+            {
+                "manager": "Dylan Miranda",
+                "team": "404 Root",
+                "points": 152,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 45
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 69
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 38
                     }
                 ],
                 "rank": 31
@@ -1510,7 +1510,7 @@
             {
                 "manager": "granville braganza",
                 "team": "A350",
-                "points": 123,
+                "points": 150,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1522,55 +1522,15 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 6
+                        "points": 33
                     }
                 ],
                 "rank": 32
             },
             {
-                "manager": "Savio Fernandes",
-                "team": "Gunners-Champions14",
-                "points": 123,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 55
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 41
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 27
-                    }
-                ],
-                "rank": 33
-            },
-            {
-                "manager": "Xerino Pereira",
-                "team": "Pereira 11",
-                "points": 119,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 45
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 65
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 9
-                    }
-                ],
-                "rank": 34
-            },
-            {
                 "manager": "clyde dias",
                 "team": "GameTime \ufffd",
-                "points": 118,
+                "points": 148,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1582,35 +1542,35 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 12
+                        "points": 42
                     }
                 ],
-                "rank": 35
+                "rank": 33
             },
             {
-                "manager": "Cancio Fernandes",
-                "team": "x Merc Benzo x",
-                "points": 117,
+                "manager": "Xerino Pereira",
+                "team": "Pereira 11",
+                "points": 143,
                 "gameweeks": [
                     {
                         "gameweek": 3,
-                        "points": 46
+                        "points": 45
                     },
                     {
                         "gameweek": 4,
-                        "points": 56
+                        "points": 65
                     },
                     {
                         "gameweek": 5,
-                        "points": 15
+                        "points": 33
                     }
                 ],
-                "rank": 36
+                "rank": 34
             },
             {
                 "manager": "Valdivia Rose Braganza",
                 "team": "Bend it like Bazinga",
-                "points": 115,
+                "points": 139,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1622,15 +1582,75 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 13
+                        "points": 37
+                    }
+                ],
+                "rank": 35
+            },
+            {
+                "manager": "Cancio Fernandes",
+                "team": "x Merc Benzo x",
+                "points": 139,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 46
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 56
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 37
+                    }
+                ],
+                "rank": 36
+            },
+            {
+                "manager": "Savio Fernandes",
+                "team": "Gunners-Champions14",
+                "points": 134,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 55
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 41
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 38
                     }
                 ],
                 "rank": 37
             },
             {
+                "manager": "Tyrus Dsouza",
+                "team": "Ha-Cunha Matata",
+                "points": 130,
+                "gameweeks": [
+                    {
+                        "gameweek": 3,
+                        "points": 39
+                    },
+                    {
+                        "gameweek": 4,
+                        "points": 40
+                    },
+                    {
+                        "gameweek": 5,
+                        "points": 51
+                    }
+                ],
+                "rank": 38
+            },
+            {
                 "manager": "Elroy Pereira",
                 "team": "Elroy 01",
-                "points": 104,
+                "points": 128,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1642,15 +1662,15 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 22
+                        "points": 46
                     }
                 ],
-                "rank": 38
+                "rank": 39
             },
             {
                 "manager": "Petron Fernandes",
                 "team": "Skulldustz",
-                "points": 88,
+                "points": 121,
                 "gameweeks": [
                     {
                         "gameweek": 3,
@@ -1662,27 +1682,7 @@
                     },
                     {
                         "gameweek": 5,
-                        "points": 2
-                    }
-                ],
-                "rank": 39
-            },
-            {
-                "manager": "Tyrus Dsouza",
-                "team": "Ha-Cunha Matata",
-                "points": 87,
-                "gameweeks": [
-                    {
-                        "gameweek": 3,
-                        "points": 39
-                    },
-                    {
-                        "gameweek": 4,
-                        "points": 40
-                    },
-                    {
-                        "gameweek": 5,
-                        "points": 8
+                        "points": 35
                     }
                 ],
                 "rank": 40
