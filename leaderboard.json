@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "19 October 2026 17:54",
+    "last_updated": "19 October 2026 21:49",
     "overall": [
         {
             "rank": 1,
@@ -42,7 +42,7 @@
             "rank": 7,
             "manager": "Rozwin Antao",
             "team": "Change the Name",
-            "points": 477
+            "points": 479
         },
         {
             "rank": 8,
@@ -52,39 +52,39 @@
         },
         {
             "rank": 9,
+            "manager": "Belinda D Souza",
+            "team": "FC Unbothered \ufffd",
+            "points": 465
+        },
+        {
+            "rank": 10,
             "manager": "granville braganza",
             "team": "A350",
             "points": 464
         },
         {
-            "rank": 10,
+            "rank": 11,
             "manager": "Kevin Almeida",
             "team": "Ke-Win de Blue",
             "points": 464
         },
         {
-            "rank": 11,
+            "rank": 12,
             "manager": "Fenzier Gomes",
             "team": "WOLF PACK",
             "points": 461
         },
         {
-            "rank": 12,
-            "manager": "Belinda D Souza",
-            "team": "FC Unbothered \ufffd",
-            "points": 461
-        },
-        {
             "rank": 13,
-            "manager": "Glen sequeira",
-            "team": "GFS United",
+            "manager": "orvil matos",
+            "team": "Relegation Loading..",
             "points": 459
         },
         {
             "rank": 14,
-            "manager": "orvil matos",
-            "team": "Relegation Loading..",
-            "points": 456
+            "manager": "Glen sequeira",
+            "team": "GFS United",
+            "points": 459
         },
         {
             "rank": 15,
@@ -102,7 +102,7 @@
             "rank": 17,
             "manager": "Eurico Viegas",
             "team": "Sandlole FC",
-            "points": 440
+            "points": 442
         },
         {
             "rank": 18,
@@ -150,7 +150,7 @@
             "rank": 25,
             "manager": "Irish Viegas",
             "team": "Dai Dai",
-            "points": 404
+            "points": 406
         },
         {
             "rank": 26,
@@ -162,37 +162,37 @@
             "rank": 27,
             "manager": "Jonathan Fernandes",
             "team": "CypriotUzzo",
-            "points": 392
+            "points": 397
         },
         {
             "rank": 28,
             "manager": "Nathan Rebelo",
             "team": "Island Boy",
-            "points": 389
+            "points": 393
         },
         {
             "rank": 29,
             "manager": "Vivancio Dias",
             "team": "cauliflower",
-            "points": 383
+            "points": 388
         },
         {
             "rank": 30,
             "manager": "Savio Fernandes",
             "team": "Gunners-Champions14",
-            "points": 382
+            "points": 384
         },
         {
             "rank": 31,
-            "manager": "clyde dias",
-            "team": "GameTime \ufffd",
-            "points": 380
+            "manager": "Pelvino Da costa",
+            "team": "glory glory manutd..",
+            "points": 384
         },
         {
             "rank": 32,
-            "manager": "Pelvino Da costa",
-            "team": "glory glory manutd..",
-            "points": 379
+            "manager": "clyde dias",
+            "team": "GameTime \ufffd",
+            "points": 380
         },
         {
             "rank": 33,
@@ -202,14 +202,14 @@
         },
         {
             "rank": 34,
-            "manager": "Terancio Fernandes",
-            "team": "MI.RA.KA 11",
-            "points": 367
+            "manager": "Xerino Pereira",
+            "team": "Pereira 11",
+            "points": 369
         },
         {
             "rank": 35,
-            "manager": "Xerino Pereira",
-            "team": "Pereira 11",
+            "manager": "Terancio Fernandes",
+            "team": "MI.RA.KA 11",
             "points": 367
         },
         {
