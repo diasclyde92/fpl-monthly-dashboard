@@ -1,48 +1,48 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "23 October 2026 16:04",
+    "last_updated": "23 October 2026 20:45",
     "overall": [
         {
             "rank": 1,
             "manager": "Nestor Dsilva",
             "team": "Take It Eze",
-            "points": 505
+            "points": 503
         },
         {
             "rank": 2,
             "manager": "Lynaldo Costa",
             "team": "Pitu Echelons",
-            "points": 504
+            "points": 500
         },
         {
             "rank": 3,
             "manager": "Cliffton Barbosa",
             "team": "CSB UTD",
-            "points": 499
+            "points": 495
         },
         {
             "rank": 4,
-            "manager": "Binod Dahal",
-            "team": "Everest XI",
-            "points": 497
+            "manager": "Adrino Fernandes",
+            "team": "BiG BaNaNa's",
+            "points": 495
         },
         {
             "rank": 5,
-            "manager": "Adrino Fernandes",
-            "team": "BiG BaNaNa's",
-            "points": 496
+            "manager": "Binod Dahal",
+            "team": "Everest XI",
+            "points": 494
         },
         {
             "rank": 6,
-            "manager": "Alister Godinho",
-            "team": "BoomBoy",
-            "points": 483
+            "manager": "Rozwin Antao",
+            "team": "Change the Name",
+            "points": 488
         },
         {
             "rank": 7,
-            "manager": "Rozwin Antao",
-            "team": "Change the Name",
-            "points": 480
+            "manager": "Alister Godinho",
+            "team": "BoomBoy",
+            "points": 483
         },
         {
             "rank": 8,
@@ -52,45 +52,45 @@
         },
         {
             "rank": 9,
-            "manager": "granville braganza",
-            "team": "A350",
-            "points": 467
-        },
-        {
-            "rank": 10,
             "manager": "Kevin Almeida",
             "team": "Ke-Win de Blue",
             "points": 465
         },
         {
-            "rank": 11,
+            "rank": 10,
             "manager": "Belinda D Souza",
             "team": "FC Unbothered \ufffd",
             "points": 465
         },
         {
+            "rank": 11,
+            "manager": "granville braganza",
+            "team": "A350",
+            "points": 464
+        },
+        {
             "rank": 12,
             "manager": "Fenzier Gomes",
             "team": "WOLF PACK",
-            "points": 461
+            "points": 463
         },
         {
             "rank": 13,
-            "manager": "orvil matos",
-            "team": "Relegation Loading..",
-            "points": 460
+            "manager": "Glen sequeira",
+            "team": "GFS United",
+            "points": 461
         },
         {
             "rank": 14,
-            "manager": "Glen sequeira",
-            "team": "GFS United",
-            "points": 460
+            "manager": "orvil matos",
+            "team": "Relegation Loading..",
+            "points": 459
         },
         {
             "rank": 15,
             "manager": "Aldridge Samuel",
             "team": "Bruno Dos Tres",
-            "points": 457
+            "points": 456
         },
         {
             "rank": 16,
@@ -112,27 +112,27 @@
         },
         {
             "rank": 19,
-            "manager": "jericho Fernandes",
-            "team": "Anonymous XI",
-            "points": 436
+            "manager": "Valdivia Rose Braganza",
+            "team": "Bend it like Bazinga",
+            "points": 423
         },
         {
             "rank": 20,
-            "manager": "Valdivia Rose Braganza",
-            "team": "Bend it like Bazinga",
-            "points": 425
+            "manager": "jericho Fernandes",
+            "team": "Anonymous XI",
+            "points": 421
         },
         {
             "rank": 21,
-            "manager": "Agnel D",
-            "team": "Agnelo",
-            "points": 419
+            "manager": "Jason Fernandes",
+            "team": "Bruno Give Me Rice",
+            "points": 415
         },
         {
             "rank": 22,
-            "manager": "Jason Fernandes",
-            "team": "Bruno Give Me Rice",
-            "points": 419
+            "manager": "Agnel D",
+            "team": "Agnelo",
+            "points": 413
         },
         {
             "rank": 23,
@@ -154,33 +154,33 @@
         },
         {
             "rank": 26,
-            "manager": "Nathan Rebelo",
-            "team": "Island Boy",
-            "points": 401
+            "manager": "Alister Costa",
+            "team": "GoalDigg3rs!\ufffd",
+            "points": 400
         },
         {
             "rank": 27,
-            "manager": "Alister Costa",
-            "team": "GoalDigg3rs!\ufffd",
-            "points": 399
-        },
-        {
-            "rank": 28,
             "manager": "Jonathan Fernandes",
             "team": "CypriotUzzo",
             "points": 397
         },
         {
+            "rank": 28,
+            "manager": "Nathan Rebelo",
+            "team": "Island Boy",
+            "points": 395
+        },
+        {
             "rank": 29,
-            "manager": "Vivancio Dias",
-            "team": "cauliflower",
+            "manager": "Savio Fernandes",
+            "team": "Gunners-Champions14",
             "points": 388
         },
         {
             "rank": 30,
-            "manager": "Savio Fernandes",
-            "team": "Gunners-Champions14",
-            "points": 385
+            "manager": "Vivancio Dias",
+            "team": "cauliflower",
+            "points": 388
         },
         {
             "rank": 31,
@@ -190,57 +190,57 @@
         },
         {
             "rank": 32,
-            "manager": "Xerino Pereira",
-            "team": "Pereira 11",
-            "points": 382
+            "manager": "clyde dias",
+            "team": "GameTime \ufffd",
+            "points": 380
         },
         {
             "rank": 33,
-            "manager": "clyde dias",
-            "team": "GameTime \ufffd",
-            "points": 381
+            "manager": "Shaina Silveira",
+            "team": "No more pep talks",
+            "points": 372
         },
         {
             "rank": 34,
-            "manager": "Shaina Silveira",
-            "team": "No more pep talks",
-            "points": 380
+            "manager": "Xerino Pereira",
+            "team": "Pereira 11",
+            "points": 369
         },
         {
             "rank": 35,
             "manager": "Terancio Fernandes",
             "team": "MI.RA.KA 11",
-            "points": 373
+            "points": 367
         },
         {
             "rank": 36,
             "manager": "Ramiro Rodrigues",
             "team": "nunu boys",
-            "points": 368
+            "points": 365
         },
         {
             "rank": 37,
             "manager": "Tyrus Dsouza",
             "team": "Ha-Cunha Matata",
-            "points": 356
+            "points": 351
         },
         {
             "rank": 38,
             "manager": "Cancio Fernandes",
             "team": "x Merc Benzo x",
-            "points": 347
+            "points": 350
         },
         {
             "rank": 39,
             "manager": "Elroy Pereira",
             "team": "Elroy 01",
-            "points": 323
+            "points": 315
         },
         {
             "rank": 40,
             "manager": "Petron Fernandes",
             "team": "Skulldustz",
-            "points": 311
+            "points": 305
         }
     ],
     "months": {
@@ -1701,6 +1701,10 @@
                     {
                         "gameweek": 7,
                         "points": 69
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 1
@@ -1717,6 +1721,10 @@
                     {
                         "gameweek": 7,
                         "points": 75
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 2
@@ -1733,6 +1741,10 @@
                     {
                         "gameweek": 7,
                         "points": 75
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 3
@@ -1749,6 +1761,10 @@
                     {
                         "gameweek": 7,
                         "points": 77
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 4
@@ -1765,6 +1781,10 @@
                     {
                         "gameweek": 7,
                         "points": 63
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 5
@@ -1781,6 +1801,10 @@
                     {
                         "gameweek": 7,
                         "points": 72
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 6
@@ -1797,6 +1821,10 @@
                     {
                         "gameweek": 7,
                         "points": 87
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 7
@@ -1813,6 +1841,10 @@
                     {
                         "gameweek": 7,
                         "points": 60
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 8
@@ -1829,6 +1861,10 @@
                     {
                         "gameweek": 7,
                         "points": 62
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 9
@@ -1845,6 +1881,10 @@
                     {
                         "gameweek": 7,
                         "points": 65
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 10
@@ -1861,6 +1901,10 @@
                     {
                         "gameweek": 7,
                         "points": 76
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 11
@@ -1877,6 +1921,10 @@
                     {
                         "gameweek": 7,
                         "points": 70
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 12
@@ -1893,6 +1941,10 @@
                     {
                         "gameweek": 7,
                         "points": 56
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 13
@@ -1909,6 +1961,10 @@
                     {
                         "gameweek": 7,
                         "points": 76
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 14
@@ -1925,6 +1981,10 @@
                     {
                         "gameweek": 7,
                         "points": 57
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 15
@@ -1941,6 +2001,10 @@
                     {
                         "gameweek": 7,
                         "points": 46
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 16
@@ -1957,6 +2021,10 @@
                     {
                         "gameweek": 7,
                         "points": 70
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 17
@@ -1973,6 +2041,10 @@
                     {
                         "gameweek": 7,
                         "points": 62
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 18
@@ -1989,6 +2061,10 @@
                     {
                         "gameweek": 7,
                         "points": 50
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 19
@@ -2005,6 +2081,10 @@
                     {
                         "gameweek": 7,
                         "points": 57
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 20
@@ -2021,6 +2101,10 @@
                     {
                         "gameweek": 7,
                         "points": 60
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 21
@@ -2037,6 +2121,10 @@
                     {
                         "gameweek": 7,
                         "points": 50
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 22
@@ -2053,6 +2141,10 @@
                     {
                         "gameweek": 7,
                         "points": 62
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 23
@@ -2069,6 +2161,10 @@
                     {
                         "gameweek": 7,
                         "points": 65
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 24
@@ -2085,6 +2181,10 @@
                     {
                         "gameweek": 7,
                         "points": 59
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 25
@@ -2101,6 +2201,10 @@
                     {
                         "gameweek": 7,
                         "points": 59
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 26
@@ -2117,6 +2221,10 @@
                     {
                         "gameweek": 7,
                         "points": 49
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 27
@@ -2133,6 +2241,10 @@
                     {
                         "gameweek": 7,
                         "points": 54
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 28
@@ -2149,6 +2261,10 @@
                     {
                         "gameweek": 7,
                         "points": 60
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 29
@@ -2165,6 +2281,10 @@
                     {
                         "gameweek": 7,
                         "points": 64
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 30
@@ -2181,6 +2301,10 @@
                     {
                         "gameweek": 7,
                         "points": 43
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 31
@@ -2197,6 +2321,10 @@
                     {
                         "gameweek": 7,
                         "points": 64
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 32
@@ -2213,6 +2341,10 @@
                     {
                         "gameweek": 7,
                         "points": 56
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 33
@@ -2229,6 +2361,10 @@
                     {
                         "gameweek": 7,
                         "points": 60
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 34
@@ -2245,6 +2381,10 @@
                     {
                         "gameweek": 7,
                         "points": 44
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 35
@@ -2261,6 +2401,10 @@
                     {
                         "gameweek": 7,
                         "points": 42
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 36
@@ -2277,6 +2421,10 @@
                     {
                         "gameweek": 7,
                         "points": 34
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 37
@@ -2293,6 +2441,10 @@
                     {
                         "gameweek": 7,
                         "points": 47
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 38
@@ -2309,6 +2461,10 @@
                     {
                         "gameweek": 7,
                         "points": 37
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 39
@@ -2325,6 +2481,10 @@
                     {
                         "gameweek": 7,
                         "points": 29
+                    },
+                    {
+                        "gameweek": 8,
+                        "points": 0
                     }
                 ],
                 "rank": 40
