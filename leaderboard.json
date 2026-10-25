@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "24 October 2026 19:57",
+    "last_updated": "25 October 2026 02:09",
     "overall": [
         {
             "rank": 1,
@@ -18,13 +18,13 @@
             "rank": 3,
             "manager": "Rozwin Antao",
             "team": "Change the Name",
-            "points": 532
+            "points": 531
         },
         {
             "rank": 4,
             "manager": "Nestor Dsilva",
             "team": "Take It Eze",
-            "points": 530
+            "points": 529
         },
         {
             "rank": 5,
@@ -42,13 +42,13 @@
             "rank": 7,
             "manager": "Alister Godinho",
             "team": "BoomBoy",
-            "points": 506
+            "points": 505
         },
         {
             "rank": 8,
             "manager": "granville braganza",
             "team": "A350",
-            "points": 501
+            "points": 500
         },
         {
             "rank": 9,
@@ -58,14 +58,14 @@
         },
         {
             "rank": 10,
-            "manager": "Glen sequeira",
-            "team": "GFS United",
-            "points": 491
+            "manager": "Kevin Fernandes",
+            "team": "Myles Ahead",
+            "points": 490
         },
         {
             "rank": 11,
-            "manager": "Kevin Fernandes",
-            "team": "Myles Ahead",
+            "manager": "Glen sequeira",
+            "team": "GFS United",
             "points": 490
         },
         {
@@ -84,7 +84,7 @@
             "rank": 14,
             "manager": "Eurico Viegas",
             "team": "Sandlole FC",
-            "points": 473
+            "points": 472
         },
         {
             "rank": 15,
@@ -120,7 +120,7 @@
             "rank": 20,
             "manager": "Jason Fernandes",
             "team": "Bruno Give Me Rice",
-            "points": 449
+            "points": 450
         },
         {
             "rank": 21,
@@ -172,15 +172,15 @@
         },
         {
             "rank": 29,
-            "manager": "Savio Fernandes",
-            "team": "Gunners-Champions14",
+            "manager": "Pelvino Da costa",
+            "team": "glory glory manutd..",
             "points": 416
         },
         {
             "rank": 30,
-            "manager": "Pelvino Da costa",
-            "team": "glory glory manutd..",
-            "points": 416
+            "manager": "Savio Fernandes",
+            "team": "Gunners-Champions14",
+            "points": 415
         },
         {
             "rank": 31,
@@ -198,7 +198,7 @@
             "rank": 33,
             "manager": "Xerino Pereira",
             "team": "Pereira 11",
-            "points": 407
+            "points": 408
         },
         {
             "rank": 34,
