@@ -1,6 +1,6 @@
 {
     "league_name": "Feni-tasy Premier League \ud83c\udf79\u26bd",
-    "last_updated": "01 November 2026 21:27",
+    "last_updated": "02 November 2026 03:12",
     "overall": [
         {
             "rank": 1,
@@ -12,13 +12,13 @@
             "rank": 2,
             "manager": "Cliffton Barbosa",
             "team": "CSB UTD",
-            "points": 609
+            "points": 607
         },
         {
             "rank": 3,
             "manager": "Lynaldo Costa",
             "team": "Pitu Echelons",
-            "points": 589
+            "points": 587
         },
         {
             "rank": 4,
@@ -34,21 +34,21 @@
         },
         {
             "rank": 6,
-            "manager": "Binod Dahal",
-            "team": "Everest XI",
-            "points": 576
-        },
-        {
-            "rank": 7,
             "manager": "Belinda D Souza",
             "team": "FC Unbothered \ufffd",
             "points": 576
         },
         {
+            "rank": 7,
+            "manager": "Binod Dahal",
+            "team": "Everest XI",
+            "points": 574
+        },
+        {
             "rank": 8,
             "manager": "Adrino Fernandes",
             "team": "BiG BaNaNa's",
-            "points": 573
+            "points": 571
         },
         {
             "rank": 9,
@@ -60,13 +60,13 @@
             "rank": 10,
             "manager": "Kevin Fernandes",
             "team": "Myles Ahead",
-            "points": 554
+            "points": 552
         },
         {
             "rank": 11,
             "manager": "Kevin Almeida",
             "team": "Ke-Win de Blue",
-            "points": 552
+            "points": 550
         },
         {
             "rank": 12,
@@ -78,7 +78,7 @@
             "rank": 13,
             "manager": "orvil matos",
             "team": "Relegation Loading..",
-            "points": 544
+            "points": 542
         },
         {
             "rank": 14,
@@ -132,13 +132,13 @@
             "rank": 22,
             "manager": "Myron Almeida",
             "team": "Sweet As Kiwis",
-            "points": 499
+            "points": 497
         },
         {
             "rank": 23,
             "manager": "Nathan Rebelo",
             "team": "Island Boy",
-            "points": 499
+            "points": 497
         },
         {
             "rank": 24,
@@ -160,15 +160,15 @@
         },
         {
             "rank": 27,
-            "manager": "Vivancio Dias",
-            "team": "cauliflower",
-            "points": 484
-        },
-        {
-            "rank": 28,
             "manager": "Savio Fernandes",
             "team": "Gunners-Champions14",
             "points": 483
+        },
+        {
+            "rank": 28,
+            "manager": "Vivancio Dias",
+            "team": "cauliflower",
+            "points": 482
         },
         {
             "rank": 29,
@@ -178,15 +178,15 @@
         },
         {
             "rank": 30,
-            "manager": "Agnel D",
-            "team": "Agnelo",
-            "points": 476
-        },
-        {
-            "rank": 31,
             "manager": "Xerino Pereira",
             "team": "Pereira 11",
             "points": 475
+        },
+        {
+            "rank": 31,
+            "manager": "Agnel D",
+            "team": "Agnelo",
+            "points": 474
         },
         {
             "rank": 32,
@@ -196,15 +196,15 @@
         },
         {
             "rank": 33,
-            "manager": "clyde dias",
-            "team": "ForBetoOrForWirtz \ufffd",
-            "points": 455
-        },
-        {
-            "rank": 34,
             "manager": "Alister Costa",
             "team": "GoalDigg3rs!\ufffd",
             "points": 454
+        },
+        {
+            "rank": 34,
+            "manager": "clyde dias",
+            "team": "ForBetoOrForWirtz \ufffd",
+            "points": 453
         },
         {
             "rank": 35,
@@ -422,22 +422,6 @@
                 "rank": 11
             },
             {
-                "manager": "Binod Dahal",
-                "team": "Everest XI",
-                "points": 152,
-                "gameweeks": [
-                    {
-                        "gameweek": 1,
-                        "points": 55
-                    },
-                    {
-                        "gameweek": 2,
-                        "points": 97
-                    }
-                ],
-                "rank": 12
-            },
-            {
                 "manager": "Belinda D Souza",
                 "team": "FC Unbothered \ufffd",
                 "points": 152,
@@ -449,6 +433,22 @@
                     {
                         "gameweek": 2,
                         "points": 112
+                    }
+                ],
+                "rank": 12
+            },
+            {
+                "manager": "Binod Dahal",
+                "team": "Everest XI",
+                "points": 152,
+                "gameweeks": [
+                    {
+                        "gameweek": 1,
+                        "points": 55
+                    },
+                    {
+                        "gameweek": 2,
+                        "points": 97
                     }
                 ],
                 "rank": 13
